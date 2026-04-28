@@ -1,0 +1,11 @@
+{
+  "LOUDCROWMOD-BULLET_POTION.description": "무작위 탄환 3개를 얻습니다.",
+  "LOUDCROWMOD-BULLET_POTION.selection_prompt": "탄환 3개를 얻습니다.",
+  "LOUDCROWMOD-BULLET_POTION.title": "탄환 포션",
+  "LOUDCROWMOD-LAVA_POTION.description": "활력 8을 얻습니다.",
+  "LOUDCROWMOD-LAVA_POTION.selection_prompt": "활력 8을 얻습니다.",
+  "LOUDCROWMOD-LAVA_POTION.title": "용암 포션",
+  "LOUDCROWMOD-MAGIC_BULLET_POTION.description": "마탄 1을 얻습니다.",
+  "LOUDCROWMOD-MAGIC_BULLET_POTION.selection_prompt": "마탄 1을 얻습니다.",
+  "LOUDCROWMOD-MAGIC_BULLET_POTION.title": "마탄 포션"
+}

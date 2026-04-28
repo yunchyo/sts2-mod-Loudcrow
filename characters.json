@@ -1,0 +1,13 @@
+{
+  "LOUDCROWMOD-LOUD_CROW_CHARACTER.cardsModifierDescription": "라우드 크로우 전용 카드입니다.",
+  "LOUDCROWMOD-LOUD_CROW_CHARACTER.cardsModifierTitle": "라우드 크로우 카드",
+  "LOUDCROWMOD-LOUD_CROW_CHARACTER.description": "허수아비 보안관.",
+  "LOUDCROWMOD-LOUD_CROW_CHARACTER.eventDeathPrevention": "라우드 크로우는 쓰러지지 않는다!",
+  "LOUDCROWMOD-LOUD_CROW_CHARACTER.possessiveAdjective": "라우드 크로우의",
+  "LOUDCROWMOD-LOUD_CROW_CHARACTER.pronounObject": "라우드 크로우",
+  "LOUDCROWMOD-LOUD_CROW_CHARACTER.pronounPossessive": "라우드 크로우의",
+  "LOUDCROWMOD-LOUD_CROW_CHARACTER.pronounSubject": "라우드 크로우",
+  "LOUDCROWMOD-LOUD_CROW_CHARACTER.title": "라우드 크로우",
+  "LOUDCROWMOD-LOUD_CROW_CHARACTER.titleObject": "라우드 크로우",
+  "LOUDCROWMOD-LOUD_CROW_CHARACTER.unlockText": "{Prerequisite}로 게임을 클리어하면 해금됩니다."
+}
